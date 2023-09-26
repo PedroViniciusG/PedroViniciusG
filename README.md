@@ -1,9 +1,4 @@
 ## Olá! Tudo Bom? 
-
-<div align="center">
-  <a href="https://github.com/PedroViniciusG">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroViniciusG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
   
   ##
   
